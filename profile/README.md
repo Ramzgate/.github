@@ -1,5 +1,14 @@
-# Welcome to Ramzgate!
-## # Home of the Unicorn Drawn Carriage!
+# Ramzgate
+
+_Rmazgate controls_ are the first to develop set of internal controls for web3 within the SOCO framework. We are developing the technology to monitor and extract information from the blockchain for continuous monitoring and auditing of blockchains and smart contracts, and to offers levels of assurance for safty and protections higher than any offered in the financial world today.
+
+# Mission 
+Promote the safe use of blochain trechnology and decentralzied finanace
+
+
+
+
+
 
 <!--
 
