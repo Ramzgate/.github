@@ -1,6 +1,6 @@
 # Ramzgate
 
-_Rmazgate controls_ are the first to develop set of internal controls for web3 within the SOCO framework. We are developing the technology to monitor and extract information from the blockchain for continuous monitoring and auditing of blockchains and smart contracts, and to offers levels of assurance for safty and protections higher than any offered in the financial world today.
+_Ramzgate controls_ represent a groundbreaking initiative as the pioneering development of internal controls for web3 within the SOCO framework. Our team is actively working on creating cutting-edge technology that enables continuous monitoring and auditing of blockchains and smart contracts. By leveraging this technology, we aim to provide unprecedented levels of assurance for safety and protection, surpassing the standards currently offered in the financial world. Our focus is on harnessing the potential of blockchain technology to deliver advanced monitoring and extraction capabilities, ensuring enhanced security and trust in decentralized systems.
 
 # Mission 
 Promote the safe use of blochain trechnology and decentralzied finanace
