@@ -1,10 +1,9 @@
 # Ramzgate
 
-_Ramzgate controls_ represent an initiative for development of internal controls for web3 within the COSO framework. Our team is actively developing innovative technology to enable continuous monitoring and auditing of blockchains and smart contracts. By leveraging this technology, we aim to provide higher levels of assurance for safety and protection, surpassing the standards currently offered in the financial world. Our focus is on harnessing the potential of blockchain technology to deliver advanced monitoring and extraction capabilities, ensuring enhanced security and trust in decentralized systems.
+The _Ramzgate controls_ initiative aims to develop internal controls for web3 within the COSO framework. Our team is actively working on innovative technology to enable continuous monitoring and auditing of blockchains and smart contracts. Through this technology, we seek to provide unparalleled levels of safety and protection, surpassing the current standards in the financial world. Our focus is on harnessing the potential of blockchain technology to deliver advanced monitoring and extraction capabilities, ensuring enhanced security and trust in decentralized systems.
 
-## Our Mission 
-Ramzgate's mission is to promote safe and secure access to decentralized finance (DeFi) by offering technology and expertise to identify, measure, mitigate, and offset undesirable risks while facilitating the safe management of desired risks. Our mission is to establish industry standards for risk control and management, making internal controls and their attestations readily accessible to all participants in the market. Through our efforts, we aim to promote a safer and more reliable environment for engaging in DeFi, ensuring that risk management practices are widely adopted and implemented effectively.
-
+## Our Mission
+Ramzgate's mission is to ensure the safe and secure access to decentralized finance (DeFi) by providing technology and expertise to identify, measure, mitigate, and offset risks. Our goal is to set industry standards for risk control and management, making internal controls accessible to all market participants. We strive to foster a safer and more reliable DeFi environment, promoting widespread adoption of effective risk management practices.
 
 <!--
 
