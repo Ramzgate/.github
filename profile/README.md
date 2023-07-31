@@ -5,6 +5,25 @@ The _Ramzgate controls_ initiative aims to develop internal controls for web3 wi
 ## Our Mission
 Ramzgate's mission is to ensure the safe and secure access to decentralized finance (DeFi) by providing technology and expertise to identify, measure, mitigate, and offset risks. Our goal is to set industry standards for risk control and management, making internal controls accessible to all market participants. We strive to foster a safer and more reliable DeFi environment, promoting widespread adoption of effective risk management practices.
 
+## The Committee of Sponsoring Organizations of the Treadway Commission (COSO) Framework
+A private sector initiative led by the _American Institute of Certified Public Accountants (AICPA)_, _Institute of Management Accountants (IMA)_, _American Accounting Association (AAA)_, _Institute of Internal Auditors (IIA)_, and _Financial Executives International (FEI)_. 
+
+ It is a widely recognized and comprehensive internal control framework used by organizations to assess, design, and implement effective internal controls. It provides guidance on risk assessment, control activities, information and communication, and monitoring to help organizations achieve their objectives and enhance their overall performance.
+
+The basic principles of the COSO framework are as follows:
+
+Internal Control Environment: Establish a positive and supportive internal control culture throughout the organization, including clear ethical values, integrity, and a commitment to competence.
+
+Risk Assessment: Identify and assess the risks that may affect the achievement of organizational objectives. This involves understanding potential risks and their potential impact on the organization's performance.
+
+Control Activities: Implement control activities that mitigate identified risks and ensure that policies, procedures, and processes are in place to effectively address those risks.
+
+Information and Communication: Communicate relevant information to appropriate stakeholders to support effective internal control. This includes timely and accurate reporting to management and other relevant parties.
+
+Monitoring Activities: Continuously monitor and evaluate the effectiveness of internal controls to ensure they are functioning as intended and identify any necessary improvements.
+
+These principles collectively form the foundation for the COSO framework and guide organizations in establishing a robust and reliable internal control system to achieve their objectives and enhance overall performance.
+
 <!--
 
 **Here are some ideas to get you started:**
