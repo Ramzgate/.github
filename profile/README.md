@@ -32,7 +32,7 @@ These principles collectively form the foundation for the COSO framework and gui
 
 ### The System and Organization Controls (SOC) Framework 
 
-is a set of guidelines established by the American Institute of CPAs (AICPA) to assess and report on the effectiveness of an organization's controls over financial reporting and other relevant operational aspects. It is designed to provide assurance to stakeholders, such as customers and business partners, regarding the security, availability, processing integrity, confidentiality, and privacy of systems and data handled by service organizations. SOC reports are commonly used by organizations to demonstrate their commitment to maintaining strong controls and security measures to protect sensitive information and operations.
+A set of guidelines established by the American Institute of CPAs (AICPA) to assess and report on the effectiveness of an organization's _controls_ over _financial reporting_ and other relevant operational aspects. It is designed to provide assurance to stakeholders, such as customers and business partners, regarding the _security_, _availability_, _processing integrity_, _confidentiality_, and _privacy_ of systems and data handled by service organizations. SOC reports are commonly used by organizations to demonstrate their commitment to maintaining strong controls and security measures to protect sensitive information and operations.
 
 
 
