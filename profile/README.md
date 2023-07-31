@@ -12,15 +12,15 @@ A private sector initiative led by the _American Institute of Certified Public A
 
 The basic principles of the COSO framework are as follows:
 
-Internal Control Environment: Establish a positive and supportive internal control culture throughout the organization, including clear ethical values, integrity, and a commitment to competence.
+1. Internal Control Environment: Establish a positive and supportive internal control culture throughout the organization, including clear ethical values, integrity, and a commitment to competence.
 
-Risk Assessment: Identify and assess the risks that may affect the achievement of organizational objectives. This involves understanding potential risks and their potential impact on the organization's performance.
+2. Risk Assessment: Identify and assess the risks that may affect the achievement of organizational objectives. This involves understanding potential risks and their potential impact on the organization's performance.
 
-Control Activities: Implement control activities that mitigate identified risks and ensure that policies, procedures, and processes are in place to effectively address those risks.
+3. Control Activities: Implement control activities that mitigate identified risks and ensure that policies, procedures, and processes are in place to effectively address those risks.
 
-Information and Communication: Communicate relevant information to appropriate stakeholders to support effective internal control. This includes timely and accurate reporting to management and other relevant parties.
+4. Information and Communication: Communicate relevant information to appropriate stakeholders to support effective internal control. This includes timely and accurate reporting to management and other relevant parties.
 
-Monitoring Activities: Continuously monitor and evaluate the effectiveness of internal controls to ensure they are functioning as intended and identify any necessary improvements.
+5. Monitoring Activities: Continuously monitor and evaluate the effectiveness of internal controls to ensure they are functioning as intended and identify any necessary improvements.
 
 These principles collectively form the foundation for the COSO framework and guide organizations in establishing a robust and reliable internal control system to achieve their objectives and enhance overall performance.
 
