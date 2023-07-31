@@ -4,6 +4,7 @@ The _Ramzgate controls_ initiative aims to develop internal controls for web3 wi
 
 ## Our Mission
 Ramzgate's mission is to ensure the safe and secure access to decentralized finance (DeFi) by providing technology and expertise to identify, measure, mitigate, and offset risks. Our goal is to set industry standards for risk control and management, making internal controls accessible to all market participants. We strive to foster a safer and more reliable DeFi environment, promoting widespread adoption of effective risk management practices.
+--------
 
 ### The Committee of Sponsoring Organizations of the Treadway Commission (COSO) Framework
 A private sector initiative led by the _American Institute of Certified Public Accountants (AICPA)_, _Institute of Management Accountants (IMA)_, _American Accounting Association (AAA)_, _Institute of Internal Auditors (IIA)_, and _Financial Executives International (FEI)_.
