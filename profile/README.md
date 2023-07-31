@@ -28,6 +28,14 @@ The basic principles of the COSO framework are as follows:
 
 These principles collectively form the foundation for the COSO framework and guide organizations in establishing a robust and reliable internal control system to achieve their objectives and enhance overall performance.
 
+---------------------
+
+### The System and Organization Controls (SOC) Framework 
+
+is a set of guidelines established by the American Institute of CPAs (AICPA) to assess and report on the effectiveness of an organization's controls over financial reporting and other relevant operational aspects. It is designed to provide assurance to stakeholders, such as customers and business partners, regarding the security, availability, processing integrity, confidentiality, and privacy of systems and data handled by service organizations. SOC reports are commonly used by organizations to demonstrate their commitment to maintaining strong controls and security measures to protect sensitive information and operations.
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
