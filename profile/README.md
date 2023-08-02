@@ -40,19 +40,19 @@ A set of guidelines established by the American Institute of CPAs (AICPA) to ass
 
 The guiding principles of SOC (System and Organization Controls) are as follows:
 
-1. Trust Services Criteria: SOC reports are based on the Trust Services Criteria, which includes principles related to security, availability, processing integrity, confidentiality, and privacy. These criteria serve as the foundation for evaluating an organization's controls.
+1. __Trust Services Criteria__: SOC reports are based on the Trust Services Criteria, which includes principles related to security, availability, processing integrity, confidentiality, and privacy. These criteria serve as the foundation for evaluating an organization's controls.
 
-2. Risk-Based Approach: SOC engagements take a risk-based approach, focusing on the risks that are most relevant to the services provided by the organization. The assessment identifies and evaluates risks to determine the appropriate controls to be tested.
+2. __Risk-Based Approach__: SOC engagements take a risk-based approach, focusing on the risks that are most relevant to the services provided by the organization. The assessment identifies and evaluates risks to determine the appropriate controls to be tested.
 
-3. Third-Party Assurance: SOC reports are often requested by customers, vendors, and other stakeholders as a means of gaining assurance about the controls and security of an organization's services. SOC reports provide transparency and accountability to third parties.
+3. __Third-Party Assurance__: SOC reports are often requested by customers, vendors, and other stakeholders as a means of gaining assurance about the controls and security of an organization's services. SOC reports provide transparency and accountability to third parties.
 
-4. Confidentiality and Privacy: SOC engagements consider the protection of sensitive information, including personal data, ensuring that controls are in place to maintain confidentiality and privacy.
+4. __Confidentiality and Privacy:__ SOC engagements consider the protection of sensitive information, including personal data, ensuring that controls are in place to maintain confidentiality and privacy.
 
-5. Independent Audit: SOC reports are typically conducted by independent auditors or firms that assess the controls objectively and provide an opinion on their effectiveness.
+5. __Independent Audit__: SOC reports are typically conducted by independent auditors or firms that assess the controls objectively and provide an opinion on their effectiveness.
 
-6. Continuous Monitoring: SOC reports may include aspects of continuous monitoring, where controls are tested over a specified period to ensure ongoing compliance and effectiveness.
+6. __Continuous Monitoring__: SOC reports may include aspects of continuous monitoring, where controls are tested over a specified period to ensure ongoing compliance and effectiveness.
 
-7. Reporting Flexibility: SOC offers different types of reports (SOC 1, SOC 2, SOC 3) to meet specific reporting needs and address various control requirements.
+7. __Reporting Flexibility__: SOC offers different types of reports (SOC 1, SOC 2, SOC 3) to meet specific reporting needs and address various control requirements.
 
 Overall, SOC engagements provide valuable information about an organization's internal controls, which can be used by stakeholders to assess risk, make informed decisions, and enhance trust in the services provided.
 
