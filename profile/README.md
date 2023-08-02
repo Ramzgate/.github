@@ -7,7 +7,7 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 
 --------
 [Internal Controls](/Users/eyal42/Work/Entrepreneurship/Ramzgate/Ramzgate_github/profile/Controls.md)
-
+[Internal Controls](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md)
 ## Internal Controls
 
 Internal controls are processes, procedures, and policies implemented by an organization to safeguard its assets, ensure the accuracy and reliability of financial reporting, and promote operational efficiency and effectiveness. Controls are designed to mitigate risks, prevent fraud, and ensure compliance with laws and regulations. Internal controls can encompass various aspects of an organization's operations, including financial transactions, information technology systems, human resources, inventory management, and more. The objective of internal controls is to provide __*reasonable assurance*__ that the organization's goals and objectives are achieved in a controlled and accountable manner.
