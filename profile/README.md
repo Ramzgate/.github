@@ -11,6 +11,8 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 - [SOC Framework](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md)
 --------
 
+## Internal Contrls for the the Uniswap Ecosystem 
+ 
 - Network Layer Controls
     - [Network Expansion]()
     - [Network Propagation]()
