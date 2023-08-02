@@ -13,7 +13,6 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 
 
 
-
 <!--
 
 **Here are some ideas to get you started:**
