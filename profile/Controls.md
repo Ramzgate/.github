@@ -1,13 +1,4 @@
-# Ramzgate
-
-The _Ramzgate controls_ initiative aims to develop internal controls for web3 within the COSO framework. Our team is actively working on innovative technology to enable continuous monitoring and auditing of blockchains and smart contracts. Through this technology, we seek to provide unparalleled levels of safety and protection, surpassing the current standards in the financial world. Our focus is on harnessing the potential of blockchain technology to deliver advanced monitoring and extraction capabilities, ensuring enhanced security and trust in decentralized systems.
-
-## Our Mission
-Ramzgate's mission is to ensure the safe and secure access to decentralized finance (DeFi) by providing technology and expertise to identify, measure, mitigate, and offset risks. Our goal is to set industry standards for risk control and management, making internal controls accessible to all market participants. We strive to foster a safer and more reliable DeFi environment, promoting widespread adoption of effective risk management practices.
-
 --------
-[Internal Controls](/Users/eyal42/Work/Entrepreneurship/Ramzgate/Ramzgate_github/profile/Controls.md)
-
 ## Internal Controls
 
 Internal controls are processes, procedures, and policies implemented by an organization to safeguard its assets, ensure the accuracy and reliability of financial reporting, and promote operational efficiency and effectiveness. Controls are designed to mitigate risks, prevent fraud, and ensure compliance with laws and regulations. Internal controls can encompass various aspects of an organization's operations, including financial transactions, information technology systems, human resources, inventory management, and more. The objective of internal controls is to provide __*reasonable assurance*__ that the organization's goals and objectives are achieved in a controlled and accountable manner.
@@ -56,15 +47,3 @@ The guiding principles of SOC (System and Organization Controls) are as follows:
 7. __Reporting Flexibility__: SOC offers different types of reports (SOC 1, SOC 2, SOC 3) to meet specific reporting needs and address various control requirements.
 
 Overall, SOC engagements provide valuable information about an organization's internal controls, which can be used by stakeholders to assess risk, make informed decisions, and enhance trust in the services provided.
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
