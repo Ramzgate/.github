@@ -22,7 +22,7 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
         - [Checkpoint Progress]()
         - [Blockchain Health]()
 - Execution Layer Controls
-    - [Safty]()
+    - [Safety]()
     - [Corectness]()
 - Application Layer Controls
     - [Uniswap v3]()
