@@ -7,8 +7,8 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 
 --------
 - [Internal Controls](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md)
-- [COSO Framework](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md)
-- [SOC Framework](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md)
+- [COSO Framework](https://github.com/Ramzgate/.github/blob/main/profile/COSO.md)
+- [SOC Framework](https://github.com/Ramzgate/.github/blob/main/profile/SOC.md)
 --------
 
 ## Internal Contrls for the the Uniswap Ecosystem 
