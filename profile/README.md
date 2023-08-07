@@ -6,7 +6,7 @@ The _Ramzgate controls_ initiative aims to develop [_internal controls_](https:/
 Ramzgate's mission is to ensure the safe and secure access to decentralized finance (DeFi) by providing technology and expertise to identify, measure, mitigate, and offset risks. Our goal is to set industry standards for risk control and management, making internal controls accessible to all market participants. We strive to foster a safer and more reliable DeFi environment, promoting widespread adoption of effective risk management practices.
 
 --------
-<!-->
+<!--
 - [Internal Controls](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md)
 - [COSO Framework](https://github.com/Ramzgate/.github/blob/main/profile/COSO.md)
 - [SOC Framework](https://github.com/Ramzgate/.github/blob/main/profile/SOC.md)
