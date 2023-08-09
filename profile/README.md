@@ -1,5 +1,9 @@
 # Ramzgate
 
+__Ramzgate__ is a protocol for 
+
+
+
 The _Ramzgate controls_ initiative aims to develop [_internal controls_](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md) for web3 within the [_COSO_](https://github.com/Ramzgate/.github/blob/main/profile/Controls.md) framework. Our team is actively working on innovative technology to enable continuous monitoring and auditing of blockchains and smart contracts. Through this technology, we seek to provide unparalleled levels of safety and protection, surpassing the current standards in the financial world. Our focus is on harnessing the potential of blockchain technology to deliver advanced monitoring and extraction capabilities, ensuring enhanced security and trust in decentralized systems.
 
 ## Our Mission
@@ -16,19 +20,19 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 [![AICPA](https://img.shields.io/badge/Organization-AICPA-green.svg)](https://en.wikipedia.org/wiki/American_Institute_of_Certified_Public_Accountants)
 --------
 
-## Internal Contrls for the the Uniswap Ecosystem 
+## Internal Controls for the the Uniswap Ecosystem  
  
 - Network Layer Controls
     - [Network Expansion](https://github.com/Ramzgate/Expansion)
     - [Network Propagation]()
 - Consensus Layer Controls
-    - Livness
+    - Liveness
         - [Blockchain Growth]()
         - [Checkpoint Progress]()
         - [Blockchain Health]()
 - Execution Layer Controls
     - [Safety]()
-    - [Corectness]()
+    - [Correctness]()
 - Application Layer Controls
     - [Uniswap v3]()
     - [Uniswap v4]()
@@ -36,13 +40,13 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 
 --------
 
-## Fiar Value Pricing for Fragmanted Decentralized Markets
+## Fair Value Pricing for Fragmented Decentralized Markets
 
 
 <!--
 git remote add publish https://github.com/Ramzgate/.github.git
 git add .
-git commit -m "fiar value"
+git commit -m "fair value"
 git push -u publish main
 -->
 
