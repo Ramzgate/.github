@@ -10,7 +10,7 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 - [Controls]()
     - [Uniswap Controls]() 
 - [Pricing]()
-    - [Principal Path Method]()
+    - [Principal Path Method](https://github.com/Ramzgate/sense)
 
 
 
