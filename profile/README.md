@@ -4,10 +4,11 @@
 Ramzgate's mission is to ensure the safe and secure access to decentralized finance (DeFi) by providing technology and expertise to identify, measure, mitigate, and offset risks. Our goal is to set industry standards for risk control and management, making internal controls accessible to all market participants. We strive to foster a safer and more reliable DeFi environment, promoting widespread adoption of effective risk management practices.
 
 ## Our Team
-- [Rod]()
-- [Eyal]()
+- [Rod](https://www.linkedin.com/in/gerard-rod-ph-d-cfe-brennan-2658363/)
+- [Eyal](https://www.linkedin.com/in/eyal-beigman/)
 
-- [Controls]()
+## Our Projects
+- [Controls](https://github.com/Ramzgate/.github/blob/main/profile/RMZGT_controls.md)
     - [Uniswap Controls]() 
 - [Pricing]()
     - [Principal Path Method](https://github.com/Ramzgate/sense)
