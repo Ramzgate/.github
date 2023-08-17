@@ -10,7 +10,7 @@ Ramzgate's mission is to ensure the safe and secure access to decentralized fina
 ## Our Projects
 - [Controls](https://github.com/Ramzgate/.github/blob/main/profile/RMZGT_controls.md)
     - [Uniswap Controls]() 
-- [Pricing]()
+- [Pricing]
     - [Principal Path Method](https://github.com/Ramzgate/sense)
 
 
