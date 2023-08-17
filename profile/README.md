@@ -6,9 +6,9 @@ __Ramzgate__ is a protocol for
 Ramzgate's mission is to ensure the safe and secure access to decentralized finance (DeFi) by providing technology and expertise to identify, measure, mitigate, and offset risks. Our goal is to set industry standards for risk control and management, making internal controls accessible to all market participants. We strive to foster a safer and more reliable DeFi environment, promoting widespread adoption of effective risk management practices.
 
 
+- [Ramzgate controls]()
+- [Ramzgate Pricing]()
 
-
-## Fair Value Pricing for Fragmented Decentralized Markets
 
 
 <!--
