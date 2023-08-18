@@ -5,16 +5,16 @@
 
 - Network Layer Controls
     - [Network Expansion](https://github.com/Ramzgate/Expansion)
-    - [Network Propagation]()
+    - Network Propagation
 - Consensus Layer Controls
     - Liveness
-        - [Blockchain Growth]()
-        - [Checkpoint Progress]()
-        - [Blockchain Health]()
+        - Blockchain Growth
+        - Checkpoint Progress
+        - Blockchain Health
 - Execution Layer Controls
-    - [Safety]()
-    - [Correctness]()
+    - Safety
+    - Correctness
 - Application Layer Controls
-    - [Uniswap v3]()
-    - [Uniswap v4]()
-    - [Pricing Engine]()
+    - Uniswap v3
+    - Uniswap v4
+    - Pricing Engine
