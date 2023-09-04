@@ -15,7 +15,7 @@
     - Safety
     - Correctness
 - Application Layer Controls
-    - Uniswap v2
+    - Uniswap v2 (would this be necessary)
     - Uniswap v3
     - Uniswap v4
     - Pricing Engine
